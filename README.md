@@ -1,6 +1,7 @@
-TITLE: About Me
-AUTHOR: Whitney Williams
-REPO NAME: day-one-class-and-hw
+TITLE: About Me<br>
+AUTHOR: Whitney Williams<br>
+REPO NAME: day-one-class-and-hw<br>
+
 ===============================================================================
 
 This goal of this project was to learn how to write simple HTML and style it
