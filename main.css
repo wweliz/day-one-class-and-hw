@@ -1,0 +1,50 @@
+body {
+	background: #CEECF5;
+	font-family: Arial, sans-serif;
+}
+
+  .logo {
+    text-align:left;
+    padding-left:25px;
+    padding-bottom:25px;
+}
+
+.pagenav {
+	position: fixed;
+	height: 225px;
+	left: 25;
+	top: 185px;
+	width: 150px;
+	display: block;
+	text-align:left;
+	font-weight: bold;
+}
+
+body {
+	margin-top: 25px;
+	font-family: Helvetica;
+	font-size:12px;
+	text-align: center;
+}
+
+  .ww {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:25px;
+    padding:0px;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size:48px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 50px;
+	font-family: Helvetica;
+	font-size:12px;
+	text-align: left;
+	color: gray;
+	text-align: center;
+}
