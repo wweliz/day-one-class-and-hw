@@ -1,5 +1,6 @@
 body {
-	background: #CEECF5
+	background: #CEECF5;
+	font-family: Arial, sans-serif;
 }
 
   .logo {
@@ -16,6 +17,7 @@ body {
 	width: 150px;
 	display: block;
 	text-align:left;
+	font-weight: bold;
 }
 
 body {
@@ -39,8 +41,10 @@ h1 {
 }
 
 footer {
+	margin-top: 50px;
 	font-family: Helvetica;
 	font-size:12px;
 	text-align: left;
-	color: gray
+	color: gray;
+	text-align: center;
 }
